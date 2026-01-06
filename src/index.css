@@ -1,0 +1,4 @@
+@import "tailwindcss";
+
+/* Animated Expandable Detail */
+@custom-variant details-open-sibling (details[open] + &);
